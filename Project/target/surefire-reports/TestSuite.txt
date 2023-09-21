@@ -1,4 +1,124 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.437 s - in TestSuite
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 12.826 s <<< FAILURE! - in TestSuite
+TC_001(runner.Testcase1)  Time elapsed: 1.134 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	The import utils.ReadPropertyFile cannot be resolved
+	The import utils.ExcelReader cannot be resolved
+	The import utils.LoggerHandler cannot be resolved
+	The import utils.Screenshot cannot be resolved
+	The import utils.ExcelReader cannot be resolved
+	The import utils.Reporter cannot be resolved
+	The import utils.LoggerHandler cannot be resolved
+	ExcelReader cannot be resolved to a type
+	LoggerHandler cannot be resolved
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	Reporter cannot be resolved to a type
+	Reporter cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	Reporter cannot be resolved
+	Screenshot cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+
+	at runner.Testcase1.TC_001(Testcase1.java:34)
+
+TC_003(runner.Testcase3)  Time elapsed: 0.996 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	The import utils.ReadPropertyFile cannot be resolved
+	The import utils.ExcelReader cannot be resolved
+	The import utils.LoggerHandler cannot be resolved
+	The import utils.Screenshot cannot be resolved
+	The import utils.ExcelReader cannot be resolved
+	The import utils.Reporter cannot be resolved
+	The import utils.LoggerHandler cannot be resolved
+	ExcelReader cannot be resolved to a type
+	LoggerHandler cannot be resolved
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	Reporter cannot be resolved to a type
+	Reporter cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	Reporter cannot be resolved
+	Screenshot cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+
+	at runner.Testcase3.TC_003(Testcase3.java:33)
+
+TC_002(runner.Testcase2)  Time elapsed: 0.969 s  <<< FAILURE!
+java.lang.Error: 
+Unresolved compilation problems: 
+	The import utils.ReadPropertyFile cannot be resolved
+	The import utils.ExcelReader cannot be resolved
+	The import utils.LoggerHandler cannot be resolved
+	The import utils.Screenshot cannot be resolved
+	The import utils.ExcelReader cannot be resolved
+	The import utils.Reporter cannot be resolved
+	The import utils.LoggerHandler cannot be resolved
+	ExcelReader cannot be resolved to a type
+	LoggerHandler cannot be resolved
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	Reporter cannot be resolved to a type
+	Reporter cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ReadPropertyFile cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	ExcelReader cannot be resolved to a type
+	Reporter cannot be resolved
+	Screenshot cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	LoggerHandler cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+	Reporter cannot be resolved
+
+	at runner.Testcase2.TC_002(Testcase2.java:30)
+
